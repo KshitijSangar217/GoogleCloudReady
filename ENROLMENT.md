@@ -45,3 +45,7 @@
   - Click on profile button & you will see the `🟢 Monthly Subscription 🟢` label there.
 13) You are good to go!!!!!!! Now, you can start completing Quests & Skill Badges.
 14) You can check syllabus Here:- [https://events.withgoogle.com/googlecloudready-facilitator-program/](https://events.withgoogle.com/googlecloudready-facilitator-program/)
+
+Follow Us on LinkedIn:
+Dhanraj Chavan : https://www.linkedin.com/in/dhanrajdc7/
+Kshitij Sangar : https://www.linkedin.com/in/kshitij-sangar/
